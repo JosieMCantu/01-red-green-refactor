@@ -1,4 +1,3 @@
-// const myArray = ['this', 'that', 'from'];
 
 const capitalizeAndFilter = (myArray) => {
     const newArr = [];
